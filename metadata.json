@@ -1,7 +1,7 @@
 {
-	"name":"Pearl",
-	"thumbnail":"pearl.png",
-	"screenshot":"pearl.png",
+	"name":"Day Dreamer",
+	"thumbnail":"day-dreamer.png",
+	"screenshot":"day-dreamer.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
