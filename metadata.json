@@ -1,5 +1,6 @@
 {
 	"name":"Day Dreamer",
+	"versionTenCompatible": 1,
 	"thumbnail":"day-dreamer.png",
 	"screenshot":"day-dreamer-screenshot.jpg",
 	"templateType":"standard",
